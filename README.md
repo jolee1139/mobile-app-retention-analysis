@@ -67,16 +67,18 @@ This project analyzes user retention patterns and cohort behavior for a hypothet
 
 ## 📌 Files & Structure
 
+```
 ├── data/
-│ ├── raw_user_events.csv
-│ └── cleaned_retention_data.csv
+│   ├── raw_user_events.csv
+│   └── cleaned_retention_data.csv
 ├── notebooks/
-│ └── retention_analysis.ipynb
+│   └── retention_analysis.ipynb
 ├── tableau/
-│ └── retention_dashboard.twbx
+│   └── retention_dashboard.twbx
 ├── sql/
-│ └── cohort_analysis_queries.sql
+│   └── cohort_analysis_queries.sql
 └── README.md
+```
 
 ## 📬 Contact
 
