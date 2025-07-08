@@ -1,4 +1,22 @@
-# Byte-compiled / optimized / DLL files
+# Ignore raw data files
+data/raw_user_events.csv
+
+# Ignore all Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (Mac, Jupyter)
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore temporary logs
+*.log# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
